@@ -7,5 +7,4 @@
 <tr><td>• Olympiad programming (Codewars, Leetcode)
 <tr><td>• Python/C++ Software Development
 </table>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayevskaya&theme=transparent)">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayevskaya&theme=transparent)">
+<img width=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayevskaya&theme=transparent">

@@ -1,1 +1,1 @@
-<iframe height="300" src="https://codepen.io/myvsky/embed/ExeBwzd?height=300&theme-id=light&default-tab=css,result" frameborder="no" allowtransparency="true" allowfullscreen="true" style="width: 100%;"></iframe>
+<embed height="300" src="https://codepen.io/myvsky/embed/ExeBwzd?height=300&theme-id=light&default-tab=css,result" frameborder="no" allowtransparency="true" allowfullscreen="true" style="width: 100%;"></embed>

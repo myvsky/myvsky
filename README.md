@@ -6,24 +6,22 @@
 &nbsp;&nbsp;
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4800&pause=400&color=4682B4&multiline=true&repeat=false&width=720&height=150&lines=Greetings%2C+wanderer!+I'm+Cybercat%2C+the+beloved+pet+of+a+wonderful+woman;on+account+of+whose+you+are+on.+Perhaps%2C+you+want+to+know+sth+about+her%2C;and+I'm+here+to+help+you+with+that.+So%2C+her+name+is+Alice%2C+she's+16+y.o.;high+schooler+from+Northern+Russia.+She+does+Data+Science+and+many+other;IT-things%2C+which+she+mentioned+below.+If+you+have+any+vacancies+for+her%2C;feel+free+to+offer%2C+because+this+girl+can't+sit+idly+by.+More+than+that%2C;she+bothers+me+with+regression+models%2C+though+I'm+just+a+cat!+Find+help...;O-oh+my+gawd%2C+do+you+smell+that%2C+too%3F+It's+CyberYummies!+Gtg%2C+cya+later!" alt="Typing SVG" align=right/></a>
 
-<img src=".src/domino.png" width=40% align=left>
 
-
-
-|T|H|I|N|`G`|S|I|`D`|O| |
-| - | - | - | - | - | - | - | - | - | - |
-| | | | |`I`| | |`A`| | |
-| | | | |`T`| | |`T`| | |
-| | | | | | |`M`|`A`|`T`|`H`|
-| | | | | | | |`S`| | |
-| | | | | | | |`C`|`P`|`P`|
-| | | | | | | |`I`| |`Y`|
-| | | | | | | | | |`T`|
-| | | | | | | | | |`H`|
-| | | | | | | | | |`O`|
-|`R`|`E`|`G`|`R`|`E`|`S`|`S`|`I`|`O`|`N`|
-
-
+| | | | | | | | | | |T|H|I|N|`G`|S|I|`D`|O| |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| | | | | | | | | | | | | | |I| | |A| | |
+| | | | | | | | | | | | | | |T| | |T| | |
+| | | | | | | | |Q̷| | | | | | | |M|`A`|T|H|
+| | | | | | | | |L| | | |P| | | | |S| | |
+| | | | | | | | |E| |D| |A| | | | |`C`|P|`P`|
+| | | |G| |S| | |A| |O| |R| | | | |I| |Y|
+| |P| |R| |O| | |R| |C| |S| |M| | | | |T|
+|`+`|R| |A| |F| | |N| |K| |I| |O| | | | |H|
+|C|`O`|M|`P`|E|`T`|I|T|`I`|V|`E`| |N| |D| |A| | |O|
+| |G| |H| |W| | |N| |`R`|E|`G`|R|`E`|S|`S`|I|O|`N`|
+| | | | | |A| | |G| | | | |`+`|L| |Y| | | |
+| | | | |`+`|R| | | | | | | | | | |N| | | |
+| | | | |D|`E`|V| | | |R|O|B|O|T|I|`C`|S| | |
 
 <details>
   <summary>TL;DR</summary>
@@ -35,7 +33,7 @@
     <li>Regression+Model : Prediction models based on regression models discovered
     <li>Async : Experienced in working with concurrency programming
     <li>Parsing : Familiar with parsing tools on CPP+Python
-    <li>Docker : Can containerize an app
+    <li>Docker : Can containerize apps
     <li>(Q-)Learning : Never stop learning something new (Q-Learning algorithm in progress)
     <li>Software+Dev : Able to create simple microservice / app
     <li>Graph : Have graphs knowledge

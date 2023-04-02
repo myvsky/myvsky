@@ -1,13 +1,13 @@
-<h3><i>«Why mathematicians don't like basketball? Because they don't understand how is it possible to get into the field, but not into the ring.»</i></h3>
+<h4><i>«Why mathematicians don't like basketball? Because they don't understand how is it possible to get into the field, but not into the ring.»</i></h4>
 
 ----
 
-<img align=left src="rpg_cat.png" width=18%>
-<img align=left src="from.png" width=40%>
+<img align=left src=".src/rpg_cat.png" width=18%>
+<img align=left src=".src/from.png" width=34%>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=21&duration=4500&pause=700&color=B491F7&multiline=true&repeat=false&width=700&height=200&lines=Greetings%2C+traveler!+I'm+Cybercat%2C+the+beloved+pet+of+this+adorable+account+owner.;Her+name+is+Alice%2C+she's+16%2C+engaged+in+Data+Science.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=4500&pause=650&color=B491F7&multiline=true&repeat=false&width=605&height=200&lines=%C2%AB+Greetings%2C+traveler!+I'm+Cybercat%2C+the+beloved+pet+of+this+adorable+account+owner.;Her+name+is+Alice%2C+she's+16%2C+engaged+in+Data+Science%2C+but+not+only.+;She+left+all+the+information+about+her+fields+of+activity+below%2C+check+it+out.;This+girl+needs+work%2C+she+can't+sit+idly+and+bothers+me+with+regression+models...;Help%2C+I+am+just+a+cat!+Wait%2C+is+that+smell..%3F+Shoot%2C+it+is!+Gonna+eat%2C+cya!+%3E%3A3+%C2%BB)](https://git.io/typing-svg)
 
-<img src="domino.png">
+<img src=".src/domino.png">
 <details>
   <summary>TL;DR</summary>
   <ul>

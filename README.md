@@ -2,12 +2,11 @@
 
 ----
 
-<img align=left src=".src/rpg_cat.png" width=18%>
-<img align=left src=".src/from.png" width=34%>
+<img align=left src=".src/rpg_cat.png" width=12%>
+&nbsp;&nbsp;
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4800&pause=400&color=4682B4&multiline=true&repeat=false&width=720&height=150&lines=Greetings%2C+wanderer!+I'm+Cybercat%2C+the+beloved+pet+of+a+wonderful+woman;on+account+of+whose+you+are+on.+Perhaps%2C+you+want+to+know+sth+about+her%2C;and+I'm+here+to+help+you+with+that.+So%2C+her+name+is+Alice%2C+she's+16+y.o.;high+schooler+from+Northern+Russia.+She+does+Data+Science+and+many+other;IT-things%2C+which+she+mentioned+below.+If+you+have+any+vacancies+for+her%2C;feel+free+to+offer%2C+because+this+girl+can't+sit+idly+by.+More+than+that%2C;she+bothers+me+with+regression+models%2C+though+I'm+just+a+cat!+Find+help...;O-oh+my+gawd%2C+do+you+smell+that%2C+too%3F+It's+CyberYummies!+Gtg%2C+cya+later!" alt="Typing SVG" align=right/></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=4500&pause=650&color=B491F7&multiline=true&repeat=false&width=605&height=200&lines=%C2%AB+Greetings%2C+traveler!+I'm+Cybercat%2C+the+beloved+pet+of+this+adorable+account+owner.;Her+name+is+Alice%2C+she's+16%2C+engaged+in+Data+Science%2C+but+not+only.+;She+left+all+the+information+about+her+fields+of+activity+below%2C+check+it+out.;This+girl+needs+work%2C+she+can't+sit+idly+and+bothers+me+with+regression+models...;Help%2C+I+am+just+a+cat!+Wait%2C+is+that+smell..%3F+Shoot%2C+it+is!+Gonna+eat%2C+cya!+%3E%3A3+%C2%BB)](https://git.io/typing-svg)
-
-<img src=".src/domino.png">
+<img src=".src/domino.png" width=40% align=left>
 <details>
   <summary>TL;DR</summary>
   <ul>
@@ -32,18 +31,16 @@
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36385d&logoColor=AAA&style=flat-square&link=)
 ![cpp](https://img.shields.io/static/v1?logo=c%2B%2B&label=&message=cpp&color=36385d&logoColor=AAA&style=flat-square&link=)
 ![js](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36385d&logoColor=AAA&style=flat-square&link=)
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
+<br>
+
 ![packages](https://img.shields.io/static/v1?label=&message=packages:&color=d1bcc7&style=flat-square)
 ![sklearn](https://img.shields.io/static/v1?logo=scikit-learn&label=&message=sklearn&color=36385d&logoColor=AAA&style=flat-square&link=)
-![pandas](https://img.shields.io/static/v1?logo=pandas&label=&message=sklearn&color=36385d&logoColor=AAA&style=flat-square&link=)
+![pandas](https://img.shields.io/static/v1?logo=pandas&label=&message=pandas&color=36385d&logoColor=AAA&style=flat-square&link=)
 ![selenium](https://img.shields.io/static/v1?logo=selenium&label=&message=selenium&color=36385d&logoColor=AAA&style=flat-square&link=)
 ![aiohttp](https://img.shields.io/static/v1?logo=aiohttp&label=&message=aiohttp&color=36385d&logoColor=AAA&style=flat-square&link=)
 ![boost](https://img.shields.io/static/v1?logo=boost&label=&message=boost&color=36385d&logoColor=AAA&style=flat-square&link=)
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
+<br>
+
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=d1bcc7&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36385d&logoColor=AAA&style=flat-square)
 ![clion](https://img.shields.io/static/v1?logo=clion&label=&message=clion&color=36385d&logoColor=AAA&style=flat-square)

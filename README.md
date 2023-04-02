@@ -5,7 +5,7 @@
 <img align=left src="rpg_cat.png" width=18%>
 <img align=left src="from.png" width=40%>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=17&duration=4500&pause=700&color=B491F7&multiline=true&repeat=false&width=600&height=200&lines=Greetings%2C+traveler!+I'm+Cybercat%2C+the+beloved+pet+of+this+adorable+account+owner.;Her+name+is+Alice%2C+she's+16%2C+engaged+in+Data+Science.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=19&duration=4500&pause=700&color=B491F7&multiline=true&repeat=false&width=650&height=200&lines=Greetings%2C+traveler!+I'm+Cybercat%2C+the+beloved+pet+of+this+adorable+account+owner.;Her+name+is+Alice%2C+she's+16%2C+engaged+in+Data+Science.)](https://git.io/typing-svg)
 
 <img src="domino.png">
 <details>

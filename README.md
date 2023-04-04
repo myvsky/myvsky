@@ -2,10 +2,10 @@
 
 ----
 
-<img align=left src=".src/rpg_cat.png" width=12%>
-&nbsp;&nbsp;
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4800&pause=400&color=A08BD0&multiline=true&repeat=false&width=720&height=135&lines=Greetings%2C+wanderer!+I'm+Cybercat%2C+the+beloved+pet+of+a+wonderful+woman;on+account+of+whose+you+are+on.+Perhaps%2C+you+want+to+know+sth+about+her%2C;and+I'm+here+to+help+you+with+that.+So%2C+her+name+is+Alice%2C+she's+16+y.o.;high+schooler+from+Northern+Russia.+She+does+Data+Science+and+many+other;IT-things%2C+which+she+mentioned+below.+If+you+have+any+vacancies+for+her%2C;feel+free+to+offer%2C+because+this+girl+can't+sit+idly+by.+More+than+that%2C;she+bothers+me+with+regression+models%2C+though+I'm+just+a+cat!+Find+help...;O-oh+my+gawd%2C+do+you+smell+that%2C+too%3F+It's+CyberYummies!+Gtg%2C+cya+later!" alt="Typing SVG" align=right/></a>
+<img align=left src=".src/rpg_cat.png" width=10%>
 
+&nbsp;&nbsp;
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=4750&pause=100&color=A08BD0&vCenter=true&multiline=true&repeat=false&width=720&height=100&lines=Greetings%2C++wanderer!+I+am+Cybercat%2C+the+beloved+pet+of+Mayevskaya.+Let+me+intro-;duce+her.+The+name's+Alice%2C+she's+16+y.o.+high+schooler+from+Northern+Russia.;Involved+in+few+IT-areas%2C+which+you+can+find+out+in+the+table+below.+Alright%2C+I'm;going+to+eat+my+CyberYummies%2C+hope+to+see+you+in+the+repos!)](https://git.io/typing-svg)
 
 |T|H|I|N|`G`|S|I|<|3|
 |-|-|-|-|-|-|-|-|-|
@@ -26,16 +26,13 @@
   <summary>TL;DR</summary>
   <ul>
     <li>Git
+    <li>Docker
     <li>Sport Programming
-    <li>Math : Exploring math analysis and high math
-    <li>CPP+Python : Favorite (most used) langauges
-    <li>Models : Passionate about creating different prediction models, especially based on regression
     <li>Big Data : Big Data and all its deritatives
-    <li>Docker : Can containerize apps
-    <li>(Q-)Learning : Never stop learning something new (Q-Learning algorithm in progress)
-    <li>Software+Dev : Able to create simple microservice / app
-    <li>Graph : Have graphs knowledge
-    <li>Competitive+Prog : Practicing for international competitions (like ICPC)
+    <li>Software Development
+    <li>Models : Passionate about creating different prediction models, especially based on regression
+    <li>Math : Exploring math analysis and high math to understand Machine Learning algorithms better
+    <li>CPP+Python : Favorite (most used) langauges
   </ul>
 </details>
 

@@ -4,7 +4,7 @@
 
 <img align=left src=".src/rpg_cat.png" width=12%>
 &nbsp;&nbsp;
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4800&pause=400&color=A08BD0&multiline=true&repeat=false&width=720&height=150&lines=Greetings%2C+wanderer!+I'm+Cybercat%2C+the+beloved+pet+of+a+wonderful+woman;on+account+of+whose+you+are+on.+Perhaps%2C+you+want+to+know+sth+about+her%2C;and+I'm+here+to+help+you+with+that.+So%2C+her+name+is+Alice%2C+she's+16+y.o.;high+schooler+from+Northern+Russia.+She+does+Data+Science+and+many+other;IT-things%2C+which+she+mentioned+below.+If+you+have+any+vacancies+for+her%2C;feel+free+to+offer%2C+because+this+girl+can't+sit+idly+by.+More+than+that%2C;she+bothers+me+with+regression+models%2C+though+I'm+just+a+cat!+Find+help...;O-oh+my+gawd%2C+do+you+smell+that%2C+too%3F+It's+CyberYummies!+Gtg%2C+cya+later!" alt="Typing SVG" align=right/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4800&pause=400&color=A08BD0&multiline=true&repeat=false&width=720&height=135&lines=Greetings%2C+wanderer!+I'm+Cybercat%2C+the+beloved+pet+of+a+wonderful+woman;on+account+of+whose+you+are+on.+Perhaps%2C+you+want+to+know+sth+about+her%2C;and+I'm+here+to+help+you+with+that.+So%2C+her+name+is+Alice%2C+she's+16+y.o.;high+schooler+from+Northern+Russia.+She+does+Data+Science+and+many+other;IT-things%2C+which+she+mentioned+below.+If+you+have+any+vacancies+for+her%2C;feel+free+to+offer%2C+because+this+girl+can't+sit+idly+by.+More+than+that%2C;she+bothers+me+with+regression+models%2C+though+I'm+just+a+cat!+Find+help...;O-oh+my+gawd%2C+do+you+smell+that%2C+too%3F+It's+CyberYummies!+Gtg%2C+cya+later!" alt="Typing SVG" align=right/></a>
 
 
 |T|H|I|N|`G`|S|I|<|3|
@@ -39,7 +39,7 @@
   </ul>
 </details>
 
-----
+<br>
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=F1DDCF&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=7E587E&logoColor=AAA&style=flat-square&link=)
@@ -58,3 +58,17 @@
 ![vscodium](https://img.shields.io/static/v1?logo=vscodium&label=&message=vscodium&color=7E587E&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=7E587E&logoColor=AAA&style=flat-square)
 ![jupyter](https://img.shields.io/static/v1?logo=jupyter&label=&message=jupyter&color=7E587E&logoColor=AAA&style=flat-square)
+
+----
+
+<a href="leetcode.com/mayevskaya">
+<img src="https://simpleicons.vercel.app/leetcode/6A5ACD" width=2.5%>
+</a>
+&nbsp;&nbsp;
+<a href="codewars.com/users/mayevskaya">
+<img src="https://simpleicons.vercel.app/codewars/6A5ACD" width=2.5%>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mayevskaya.av@gmail.com">
+<img src="https://simpleicons.vercel.app/gmail/6A5ACD" width=2.5%>
+</a>

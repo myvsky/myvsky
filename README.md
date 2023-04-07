@@ -1,4 +1,4 @@
-<img src="header.png">
+<img src=".src/header.png">
 <h4><i>«Why mathematicians don't like basketball? Because they don't understand how is it possible to get into the field, but not into the ring.»</i></h4>
 
 ----

@@ -1,10 +1,11 @@
+<img src="header.png">
 <h4><i>«Why mathematicians don't like basketball? Because they don't understand how is it possible to get into the field, but not into the ring.»</i></h4>
 
 ----
 
 <img align=left src=".src/rpg_cat.png" width=10%>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=4750&pause=100&color=A08BD0&vCenter=true&multiline=true&repeat=false&width=720&height=80&lines=Greetings%2C++wanderer!+I+am+Cybercat%2C+the+beloved+pet+of+Mayevskaya.+Let+me+intro-;duce+her.+The+name's+Alice%2C+she's+16+y.o.+high+schooler+from+Northern+Russia.;Involved+in+few+IT-areas%2C+which+you+can+find+out+in+the+table+below.+Alright%2C+I'm;going+to+eat+my+CyberYummies%2C+hope+to+see+you+in+the+repos!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=4750&pause=100&color=A08BD0&vCenter=true&multiline=true&repeat=false&width=720&height=90&lines=Greetings%2C++wanderer!+I+am+Cybercat%2C+the+beloved+pet+of+Mayevskaya.+Let+me+intro-;duce+her.+The+name's+Alice%2C+she's+16+y.o.+high+schooler+from+Northern+Russia.;Involved+in+few+IT-areas%2C+which+you+can+find+out+in+the+table+below.+Alright%2C+I'm;going+to+eat+my+CyberYummies%2C+hope+to+see+you+in+the+repos!)](https://git.io/typing-svg)
 
 |T|H|I|N|`G`|S|I|<|3|
 |-|-|-|-|-|-|-|-|-|

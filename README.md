@@ -5,7 +5,7 @@
 
 <img align=left src=".src/rpg_cat.png" width=10%>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4000&pause=100&color=A08BD0&vCenter=true&multiline=true&repeat=false&width=500&height=90&lines=Greetings,+wanderer!+I+am+DocKitten,+the+beloved;digital+pet+of+Mayevskaya.+I+am+working+in+the;repos,+so+meet+me+there!" width=50%>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4000&pause=100&color=A08BD0&vCenter=true&multiline=true&repeat=false&width=500&height=90&lines=Greetings,+wanderer!+I+am+DocKitten,+the+beloved;digital+pet+of+Mayevskaya.+I+am+working+in+the;repos,+so+meet+me+there!" width=60%>
 
 |T|H|I|N|`G`|S|I|<|3|
 |-|-|-|-|-|-|-|-|-|

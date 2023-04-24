@@ -1,11 +1,13 @@
 <img src=".src/header.png">
-<h4><i>«Why mathematicians don't like basketball? Because they don't understand how is it possible to get into the field, but not into the ring.»</i></h4>
 
-----
+### _«Why mathematicians don't like basketball? Because they don't understand how is it possible to get into the field, but not into the ring.»_
+---
+<img src="https://media.tenor.com/gSl1GTJY-NcAAAAC/rhobh-cat.gif" width=15% align=left>
+<img src="https://media.tenor.com/-U6ekx6uNK4AAAAd/cat-spin-pyramid.gif" width=15% align=right>
 
-<img align=left src=".src/rpg_cat.png" width=10%>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4000&pause=100&color=A08BD0&vCenter=true&multiline=true&repeat=false&width=500&height=90&lines=Greetings,+wanderer!+I+am+DocKitten,+the+beloved;digital+pet+of+Mayevskaya.+I+am+working+in+the;repos,+so+meet+me+there!" width=60%>
+## &nbsp;&nbsp;**Hey!**
+### &nbsp;&nbsp;Call me Mayevskaya. I'm a high school student from the Northern Russia.
+### &nbsp;&nbsp;Currently working at LLC RPE "Linux Security".
 
 |T|H|I|N|`G`|S|I|<|3|
 |-|-|-|-|-|-|-|-|-|
@@ -50,6 +52,7 @@
 ![aiohttp](https://img.shields.io/static/v1?logo=aiohttp&label=&message=aiohttp&color=7E587E&logoColor=AAA&style=flat-square&link=)
 ![asyncio](https://img.shields.io/static/v1?logo=&label=&message=asyncio&color=7E587E&logoColor=AAA&style=flat-square&link=)
 ![boost](https://img.shields.io/static/v1?logo=boost&label=&message=boost&color=7E587E&logoColor=AAA&style=flat-square&link=)
+![libxml](https://img.shields.io/static/v1?logo=libxml&label=&message=libxml&color=7E587E&logoColor=AAA&style=flat-square&link=)
 
 
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=F1DDCF&style=flat-square)

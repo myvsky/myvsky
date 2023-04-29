@@ -5,9 +5,8 @@
 <img src="https://media.tenor.com/gSl1GTJY-NcAAAAC/rhobh-cat.gif" width=15% align=left>
 <img src="https://media.tenor.com/-U6ekx6uNK4AAAAd/cat-spin-pyramid.gif" width=15% align=right>
 
-## &nbsp;&nbsp;**Hey!**
-### &nbsp;&nbsp;Call me Mayevskaya. I'm a high school student from the Northern Russia.
-### &nbsp;&nbsp;Currently working at LLC RPE "Linux Security".
+## &nbsp;**Hey!**
+### &nbsp;Call me Mayevskaya. I do Data Science and &nbsp;Software&nbsp;Dev. 16yo student from the Northern Russia.
 
 |T|H|I|N|`G`|S|I|<|3|
 |-|-|-|-|-|-|-|-|-|

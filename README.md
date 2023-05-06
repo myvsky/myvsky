@@ -52,6 +52,6 @@
 
 ----
 
-&nbsp;&nbsp;
 <a href="mailto:mayevskaya.av@gmail.com"><img src="https://simpleicons.vercel.app/gmail/6A5ACD" width=2.5%></a>
+&nbsp;&nbsp;
 <a href="https://myvsky.github.io"><img src=".src/language.png" width=2.5%></a>

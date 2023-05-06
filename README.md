@@ -1,14 +1,7 @@
 <img src=".src/header.png">
 
-### _«Why mathematicians don't like basketball? Because they don't understand how is it possible to get into the field, but not into the ring.»_
+#### _«Why mathematicians don't like basketball? Because they don't understand how is it possible to get into the field, but not into the ring.»_
 ---
-<img src="https://media.tenor.com/gSl1GTJY-NcAAAAC/rhobh-cat.gif" width=15% align=left>
-<img src="https://media.tenor.com/-U6ekx6uNK4AAAAd/cat-spin-pyramid.gif" width=15% align=right>
-
-## &nbsp;**Hey!**
-### &nbsp;Call me _mvsk_. I do DS and SD. Study in High School. Living in the &nbsp;Northern Russia, &nbsp;working in LLC RPE «Linux Security».
-<br>
-
 |T|H|I|N|`G`|S|I|<|3|
 |-|-|-|-|-|-|-|-|-|
 |||||`I`|

@@ -40,10 +40,7 @@
 ![js](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=7E587E&logoColor=AAA&style=flat-square&link=)
 
 
-![packages](https://img.shields.io/static/v1?label=&message=packages:&color=F1DDCF&style=flat-square)
-![selenium](https://img.shields.io/static/v1?logo=selenium&label=&message=selenium&color=7E587E&logoColor=AAA&style=flat-square&link=)
-![aiohttp](https://img.shields.io/static/v1?logo=aiohttp&label=&message=aiohttp&color=7E587E&logoColor=AAA&style=flat-square&link=)
-![asyncio](https://img.shields.io/static/v1?logo=&label=&message=asyncio&color=7E587E&logoColor=AAA&style=flat-square&link=)
+![libs ^ frameworks](https://img.shields.io/static/v1?label=&message=libs^frameworks:&color=F1DDCF&style=flat-square)
 ![boost](https://img.shields.io/static/v1?logo=boost&label=&message=boost&color=7E587E&logoColor=AAA&style=flat-square&link=)
 ![libxml](https://img.shields.io/static/v1?logo=libxml&label=&message=libxml&color=7E587E&logoColor=AAA&style=flat-square&link=)
 
@@ -56,6 +53,5 @@
 ----
 
 &nbsp;&nbsp;
-<a href="mailto:mayevskaya.av@gmail.com">
-<img src="https://simpleicons.vercel.app/gmail/6A5ACD" width=2.5%>
-</a>
+<a href="mailto:mayevskaya.av@gmail.com"><img src="https://simpleicons.vercel.app/gmail/6A5ACD" width=2.5%></a>
+<a href="https://myvsky.github.io"><img src=".src/language.png" width=2.5%></a>

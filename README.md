@@ -43,6 +43,7 @@
 ![libs ^ frameworks](https://img.shields.io/static/v1?label=&message=libs^frameworks:&color=F1DDCF&style=flat-square)
 ![boost](https://img.shields.io/static/v1?logo=boost&label=&message=boost&color=7E587E&logoColor=AAA&style=flat-square&link=)
 ![libxml](https://img.shields.io/static/v1?logo=libxml&label=&message=libxml&color=7E587E&logoColor=AAA&style=flat-square&link=)
+![bs4](https://img.shields.io/static/v1?logo=beautifulsoup4&label=&message=bs4&color=7E587E&logoColor=AAA&style=flat-square&link=)
 
 
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=F1DDCF&style=flat-square)
@@ -54,4 +55,4 @@
 
 <a href="mailto:mayevskaya.av@gmail.com"><img src="https://simpleicons.vercel.app/gmail/6A5ACD" width=2.5%></a>
 &nbsp;&nbsp;
-<a href="https://myvsky.github.io"><img src=".src/language.png" width=2.5%></a>
+<a href="https://myvsky.github.io"><img src="https://simpleicons.vercel.app/firefox/6A5ACD" width=2.5%></a>
